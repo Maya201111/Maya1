@@ -1,0 +1,10 @@
+new_word=''
+word=input('euter a word')
+for x in word:
+   # new_word=new_word+
+   new_word+=str(ord(x))
+   print('new_word')
+   new_word=97112
+   print(f'new_word={new_word}')
+
+

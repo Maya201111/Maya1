@@ -1,0 +1,5 @@
+new_word=''
+word=input('euter a word')
+for x in word:
+    new_word+=chr
+
